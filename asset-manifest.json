@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/suryapvs/Demo.git/static/css/main.69d987b8.css",
+    "main.js": "/suryapvs/Demo.git/static/js/main.8637d1cb.js",
+    "static/js/453.ed3810f9.chunk.js": "/suryapvs/Demo.git/static/js/453.ed3810f9.chunk.js",
+    "static/media/background-image.jpg": "/suryapvs/Demo.git/static/media/background-image.69a1d89a0cfcbec79870.jpg",
+    "index.html": "/suryapvs/Demo.git/index.html",
+    "main.69d987b8.css.map": "/suryapvs/Demo.git/static/css/main.69d987b8.css.map",
+    "main.8637d1cb.js.map": "/suryapvs/Demo.git/static/js/main.8637d1cb.js.map",
+    "453.ed3810f9.chunk.js.map": "/suryapvs/Demo.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69d987b8.css",
+    "static/js/main.8637d1cb.js"
+  ]
+}
