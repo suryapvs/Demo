@@ -1,0 +1,342 @@
+
+-------------------------------------------------------
+Tuesday (30/09/2025)			total => 894.90
+-------------------------------------------------------
+30/09/2025 -- Night at Chattan
+yasar = 12  --
+surya = 12  tea
+total = 27
+
+30/09/2025 -- Night at naidu 
+yasar = 55 (porotta x2)
+surya = 90 (plain dosa + omallete)
+total = 145
+
+30/09/2025 -- Night at bhai tea shop
+surya = 12  tea
+total = 12
+
+30/09/2025 -- Night at bhai tea shop
+bhai  = 350.90 Reacharge
+total = 350.90
+
+30/09/2025 -- Afternoon juice at near by murugan kovil
+members = ?
+surya   = 20 (lemon juice)
+total   = 270
+
+30/09/2025 -- Morning at akka shop (dev's kitchen)
+yasar = 50 (half pullov + 2 vadai)
+surya = 40 (half pongal + 1 vadai)
+total = 90
+------------------------------------------------------------
+
+-------------------------------------------------------
+Monday (29/09/2025)                     total => 1810
+-------------------------------------------------------
+29/09/2025 -- Night at naidu 
+surya = 60 (plain dosa)
+total = 60
+
+29/09/2025 -- Night at iraivi to send money to gana siva 
+gana siva = 80 (tea)
+total     = 80
+
+29/09/2025 -- SETC (akka & me)
+esakkibala = 795 (bus)
+surya      = 795 (bus)
+total      = 1590
+
+29/09/2025 -- Morning at akka shop (dev's kitchen)
+yasar = 40 (half pullov + 1 vadai)
+surya = 40 (half pongal + 1 vadai)
+total = 80
+------------------------------------------------------------
+
+-------------------------------------------------------
+Sunday (28/09/2025)                     total => 302
+-------------------------------------------------------
+28/09/2025 -- Night at kandha villas
+yasar = 60 (podi dosa) 
+surya = 60 (plain dosa + omellate)
+total = 120
+
+28/09/2025 -- Night at iraivi
+prem  = 15 (tea Full)
+surya = 15 (tea Full)
+yasar = 12 (tea)
+total = 42
+
+28/09/2025 -- Afternoon at akka (sea food)
+surya      = 40 (meals)
+esakkimani = 40 (meals)
+total = 80
+
+28/09/2025 -- Morning at naidu 
+surya = 60 (plain dosa)
+total = 60
+------------------------------------------------------------
+
+-------------------------------------------------------
+Saturday (27/09/2025)                     total => 343
+-------------------------------------------------------
+27/09/2025 -- Night at naidu 
+surya = 60 (plain dosa)
+total = 60
+
+27/09/2025 -- Night at iraivi
+prem     = 15 (tea Full)
+surya    = 15 (tea Full)
+shandosh = 39 (tea with cake)
+total    = 69
+
+27/09/2025 -- Afternoon at akka shop (dev's kitchen)
+yasar = 60 (veg briyani & sapathi)
+surya = 40 (half meals)
+total = 100
+
+27/09/2025 -- Morning at iraivi
+prem  = 12 (tea)
+surya = 12 (tea)
+total = 24
+
+27/09/2025 -- Morning at SDR
+prem  = 45 (puri)
+surya = 45 (puri)
+total = 90
+------------------------------------------------------------
+
+-----------------------------------------------------------
+Friday (26/09/2025)                     total => 156
+-------------------------------------------------------
+26/09/2025 -- Night at naidu 
+surya = 60 (plain dosa)
+yasar = 60 (porotta)
+total = 120
+
+26/09/2025 -- Night at iraivi
+prem       = 12 (tea)
+surya      = 12 (tea)
+esakkimani = 12 (tea)
+total      = 36
+------------------------------------------------------------
+
+-------------------------------------------------------
+Thursday (25/09/2025)                     total => 152
+-------------------------------------------------------
+25/09/2025 -- Night at iraivi
+esakkibala = 15 (tea)
+surya      = 25 (tea with biscuit)
+nprem      = 12 (tea)
+velan      = 20 (cake)
+total      = 72
+
+25/09/2025 -- afternoon at akka shop (sea food)
+esakkimani  = 40 (meals)
+surya       = 40 (meals)
+total       = 80
+------------------------------------------------------------
+
+-------------------------------------------------------
+Wednesday (24/09/2025)                     total => 297
+-------------------------------------------------------
+24/09/2025 -- Night at machan tea shop
+surya      = 12 (tea)
+nprem      = 15 (coffee)
+yasar      = 15 (coffeee)
+total      = 42
+
+24/09/2025 -- Night at naidu 
+surya = 60 (plain dosa)
+total = 60
+
+24/09/2025 -- Night at iraivi
+esakkibala = 15 (tea)
+surya      = 15 (tea)
+esakkimani = 15 (tea)
+velan      = 10 (biscuit)
+total      = 55
+
+24/09/2025 -- afternoon at akka shop (sea food)
+esakkimani  = 50 (meals with omellete)
+surya       = 50 (meals with omellete)
+total       = 100
+
+24/09/2025 -- Morning at mani anna
+surya      = 40
+total      = 40
+------------------------------------------------------------
+
+-------------------------------------------------------
+Tuesday (23/09/2025)                     total => 1840
+-------------------------------------------------------
+23/09/2025 -- Night at iraivi
+siva       = 15 (tea)
+surya      = 15 (tea)
+velan      = 10 (biscuit)
+total      = 40
+
+23/09/2025 -- afternoon at maruthi
+esakkimani  = 65 (meals with omellete)
+surya       = 65 (meals with omellete)
+total       = 130
+
+23/09/2025 -- SETC (akka & me)
+esakkibala = 790 (bus)
+surya      = 790 (bus)
+total      = 1580
+
+23/09/2025 -- morning at maruthi
+yasar   = 50 (meals with omellete)
+surya   = 40 (meals with omellete)
+total   = 90
+------------------------------------------------------------
+
+-------------------------------------------------------
+Monday (22/09/2025)                     total => 700
+-------------------------------------------------------
+22/09/2025 -- Night at cake for madhan hbd
+yasar      = 146 
+surya      = 146 
+esakkimani = 146 
+total      = 440
+
+22/09/2025 -- Night at medical to me
+surya      = 28
+total      = 28
+
+22/09/2025 -- Night at maruthi
+surya       = 50 (set dosa)
+total       = 50
+
+22/09/2025 -- Night at iraivi
+yasar      = 10 (tea)
+surya      = 12 (tea)
+nprem      = 10 (tea)
+total      = 32
+
+22/09/2025 -- afternoon at akka shop (sea food)
+esakkimani  = 50 (kushka)
+surya       = 50 (kushka)
+total       = 100
+
+22/09/2025 -- Morning at mani anna
+surya      = 50
+total      = 50
+------------------------------------------------------------
+
+-------------------------------------------------------
+Sunday (21/09/2025)                     total => 316
+-------------------------------------------------------
+21/09/2025 -- Night at maruthi
+surya       = 75
+total       = 75
+
+21/09/2025 -- Night at medical to me
+surya       = 53
+total       = 53
+
+21/09/2025 -- Recharge
+surya       = 26
+total       = 26
+
+21/09/2025 -- at carry mart
+surya       = 52
+total       = 52
+
+21/09/2025 -- afternoon at akka shop (sea food)
+surya       = 50 (kushka)
+total       = 50
+
+21/09/2025 -- Night at iraivi
+surya      = 20 ( ginger tea)
+total      = 20
+
+21/09/2025 -- Morning at mani anna
+surya      = 40
+total      = 40
+------------------------------------------------------------
+
+-------------------------------------------------------
+Saturday (20/09/2025)                     total => 471
+-------------------------------------------------------
+20/09/2025 -- Night at naidu 
+surya = 80 (plain dosa)
+total = 80
+
+20/09/2025 -- chatten tea shop
+yasar      = 15 (coffee)
+surya      = 15 (coffee)
+nprem      = 12 (tea)
+total      = 42
+
+20/09/2025 -- afternoon at akka shop (sea food)
+esakkimani  = 50 (kushka)
+surya       = 50 (kushka)
+total       = 100
+
+20/09/2025 -- Recharge
+surya       = 249
+total       = 249
+------------------------------------------------------------
+
+-------------------------------------------------------
+Friday (19/09/2025)                     total => 270
+-------------------------------------------------------
+19/09/2025 -- Night at fruit shop 
+fruits = 65 (plain dosa)
+total  = 65
+
+19/09/2025 -- Night at naidu 
+surya = 60 (plain dosa)
+total = 60
+
+19/09/2025 -- Afternoon at akka shop (dev's kitchen)
+esakkimani = 50 (veg briyani)
+surya      = 65 (meals)
+total      = 115
+
+19/09/2025 -- Morning at mani anna
+surya      = 30
+total      = 30
+------------------------------------------------------------
+
+-------------------------------------------------------
+Thursday (18/09/2025)                     total => 138
+-------------------------------------------------------
+18/09/2025 -- Carry Mart at night 
+surya  = 38 (plain dosa)
+total  = 38
+
+18/09/2025 -- Night at maruthi
+surya       = 50
+esakkimani  = 50
+total       = 100
+------------------------------------------------------------
+
+-------------------------------------------------------
+Wednesday (17/09/2025)                     total => 10331
+-------------------------------------------------------
+17/09/2025 -- Night at naidu 
+surya = 60 (plain dosa)
+total = 60
+
+17/09/2025 -- Send to athaan
+kp    = 10000
+total = 10000
+
+17/09/2025 -- Afternoon buy fruits
+esakkimani    = 85
+surya         = 85
+total = 171
+
+17/09/2025 -- afternoon at akka shop (sea food)
+esakkimani  = 50 (kushka)
+surya       = 50 (kushka)
+total       = 100
+------------------------------------------------------------
+
+
+
+
+
